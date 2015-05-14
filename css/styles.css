@@ -1,11 +1,6 @@
 /* ===============================
-   Author: Vika Kudenko
-   Date:   June 2013
-   
-   Notes:
-   Hand coded for Build a Website
-   from Scratch with HTML & CSS
-   by Brad Hussey
+   Author: Victoria Kudenko
+   Date:   June 2014
    
    Colour Palette:
    ---------------
@@ -226,7 +221,7 @@ footer.main a:hover {
 }
 
 #uncopyright, #credits {
-    width: 240px;
+    width: 260px;
     float: left;
     padding: 10px 0 10px 50px;
 }
